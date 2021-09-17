@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: ghostwhite;
+    background-color: BlanchedAlmond;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: Coral;
 }
 a:hover {
     text-decoration: underline;
@@ -50,10 +50,10 @@ ul.posts li {
 
 img {
     display: block;
-    margin-left: auto;
+    margin-left: none;
     margin-right: auto;
     /*width: 40%;*/
-    height: 400px;
+    height: 200px;
     border: 2px solid black;
     padding: 1px;
 
